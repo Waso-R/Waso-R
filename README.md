@@ -11,8 +11,8 @@
 - 🍔 Developed a **Restaurant Website** for *Pattiez Burgers* (modern UI + responsive design)  
 - 🎮 Created a **Prison Escape Game** with JS + Flask (authentication, gameplay logic, dark theme UI)  
 - 🏋️ Built a **Gym Workout Tracker** (track sets, reps, and progress with a clean dashboard)  
-- 🌱 Currently learning **Python, Flask, React, and System Design**  
-- 🥊 Outside of tech: passionate about **boxing, fitness, and motorcycles** 🏍️  
+- 🌱 Currently learning 
+- 🥊 Outside of tech:  
 
 ---
 
