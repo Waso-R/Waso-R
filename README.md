@@ -36,7 +36,7 @@ Developed a responsive mobile web prototype for Zain Bahrain, converting Figma d
 
 A **responsive full-stack** restaurant website for Pattiez Burgers, featuring a dynamic interactive menu, functional contact form, and modern, mobile-friendly design.   
 **Stack:** HTML, CSS, JavaScript  
-🔗 [Pattiez-Burgers](https://github.com/Waso-R/Pattiez-Burgers)
+🔗 [Pattiez-Burgers](https://waso-r.github.io/Pattiez-Burgers/index.html)
 
 ---
 
@@ -44,7 +44,7 @@ A **responsive full-stack** restaurant website for Pattiez Burgers, featuring a 
 
 A **fitness tracking web app** allowing users to log workouts, track sets/reps, create custom workout splits, record personal best lifts, and compare progress with other users through an interactive dashboard.  
 **Stack:** Python, Flask, HTML, CSS, SQLite  
-🔗 [Repository](https://github.com/Waso-R/gym-workout-tracker)
+🔗 [Repository](https://github.com/Waso-R/Gym-Workout-Tracker)
 
 ---
 
@@ -52,7 +52,7 @@ A **fitness tracking web app** allowing users to log workouts, track sets/reps, 
 
 A top-down shooter game where the player must escape from police in a dynamic maze. Implements AI-driven enemy chases, collision detection, shooting mechanics, power-ups, and player health tracking.  
 **Stack:** JavaScript, Flask, HTML, CSS  
-🔗 [Repository](https://github.com/Waso-R/prison-escape-game)
+🔗 [Repository](https://github.com/Waso-R/Prison-Escape-Game)
 
 ---
 
