@@ -7,11 +7,10 @@
 
 ## 👨‍💻 About Me
 - 🎓 Second-year **Computer Science Student** at **University College Cork, Ireland**  
-- 💼 **Internship Experience:** Developed a mobile-first web prototype for **Zain Bahrain** (Frontend + API integration)  
-- 🍔 Built a **Restaurant Website** for *Pattiez Burgers* (modern UI + responsive design)  
-- 🎮 Created a **Prison Escape Game** with JS + Flask (authentication, AI-driven enemy chases, collision detection)  
-- 🏋️ Developed a **Gym Workout Tracker** (Flask backend, SQLite database, interactive dashboard for sets/reps tracking)  
-- 🌱 Currently exploring **Algorithms & Data Structures, Cloud Computing Architectures, and Containerization (Docker/Kubernetes)**  
+- 💡 I love turning ideas into real projects from interactive web apps to full-stack prototypes  
+- ⚙️ I’ve gained experience through internships and personal projects, building my skills in frontend, backend, and API integration.  
+- 🌱 Currently exploring **Algorithms & Data Structures, Cloud Computing Architectures, and Containerization (Docker/Kubernetes)**
+- 💭 Outside of coding, I enjoy learning about tech trends, fitness, and finding ways to grow both personally and professionally.  
 
 ---
 
@@ -27,7 +26,7 @@
 
 ### 📱 Zain Web App Prototype
 
-Developed a responsive mobile web prototype for Zain Bahrain, converting Figma designs into a pixel-perfect frontend. Features include interactive promo carousel, eSIM selection tabs, expandable checkout footer, FAQ popup, TAP payment integration, and connected internal API's. 
+Developed a responsive mobile web prototype for Zain Bahrain, converting Figma designs into a pixel-perfect frontend. Features include interactive promo carousel, eSIM selection tabs, expandable checkout footer, FAQ popup, payment integration, and connected internal API's.  
 **Stack:** HTML, CSS, JavaScript, PHP
 
 ---
