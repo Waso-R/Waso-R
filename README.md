@@ -8,9 +8,9 @@
 ## 👨‍💻 About Me
 - 🎓 Second-year **Computer Science Student** at **University College Cork, Ireland**  
 - 💡 I love turning ideas into real projects from interactive web apps to full-stack prototypes  
-- ⚙️ I’ve gained experience through internships and personal projects, building my skills in frontend, backend, and API integration.  
+- ⚙️ I’ve gained experience through internships and personal projects, building my skills in frontend, backend, and API integration  
 - 🌱 Currently exploring **Algorithms & Data Structures, Cloud Computing, and Containerization (Docker/Kubernetes)**
-- 💭 Outside of coding, I enjoy learning about tech trends, fitness, and finding ways to grow both personally and professionally.  
+- 💭 Outside of coding, I enjoy learning about tech trends, fitness, and finding ways to grow both personally and professionally  
 
 ---
 
